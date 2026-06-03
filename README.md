@@ -73,7 +73,7 @@ synent-task1-titanic-cleaning-hardik
 
 ├── cleaned_titanic.csv
 
-├── notebook.ipynb
+├── task1.ipynb
 
 ├── requirements.txt
 
