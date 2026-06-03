@@ -66,18 +66,15 @@ The cleaned dataset was saved as cleaned_titanic.csv.
 
 ## Project Structure
 
+synent-task1-titanic-cleaning-hardik
+│
 ├── train.csv
-
 ├── cleaned_titanic.csv
-
 ├── notebook.ipynb
-
 ├── requirements.txt
-
 ├── report.pdf
-
-└── README.md
-|_  working.pdf
+├── README.md
+└── working.pdf
 
 ## Conclusion
 
